@@ -17,4 +17,4 @@ RUN GOOS=linux go build -o app
 
 ENTRYPOINT ["./app"]
 
-EXPOSE 5000
+EXPOSE 3000
