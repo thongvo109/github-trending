@@ -48,7 +48,7 @@ func main() {
 		RepoHandler: repoHandler,
 	}
 	api.SetupRouter()
-	go scheduleUpdateTrending(60* time.Second,repoHandler)
+	go scheduleUpdateTrending(600* time.Second,repoHandler)
 	e.Logger.Fatal(e.Start(":3000"))
 }
 func scheduleUpdateTrending(timeSchedule time.Duration,handler handler.RepoHandler)  {
