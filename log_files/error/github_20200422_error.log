@@ -1,0 +1,11 @@
+time="2020-04-23T05:09:06.166778+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=24
+time="2020-04-23T05:10:47.067976+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=31
+time="2020-04-23T05:13:29.585335+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=33
+time="2020-04-23T05:14:10.302816+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=36
+time="2020-04-23T05:15:27.914797+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=36
+time="2020-04-23T05:16:12.134743+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=35
+time="2020-04-23T05:16:12.13527+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=37
+time="2020-04-23T05:16:24.83348+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=35
+time="2020-04-23T05:16:24.83406+07:00" level=error msg="co loi xay ra" file=/Users/thong_vo/go/src/github-trending/main.go line=37
+time="2020-04-23T05:16:37.583906+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=35
+time="2020-04-23T05:51:46.297394+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=35

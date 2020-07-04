@@ -1,0 +1,134 @@
+time="2020-04-23T14:17:46.052631+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=38
+time="2020-04-23T14:27:26.3831+07:00" level=error msg="sql: no rows in result set" file=/Users/thong_vo/go/src/github-trending/main.go line=38
+time="2020-04-23T14:30:45.670398+07:00" level=error msg="pq: syntax error at or near \"user\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=31
+time="2020-04-23T14:33:07.724124+07:00" level=error msg="pq: syntax error at or near \"user\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=31
+time="2020-04-23T14:34:33.53549+07:00" level=error msg="pq: syntax error at or near \"user\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=31
+time="2020-04-23T14:36:52.473814+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:38:44.965651+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:40:25.553274+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:40:52.345383+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:41:27.44054+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:42:29.441061+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:43:40.496274+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:44:19.230968+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:46:14.908531+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:46:18.484289+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:52:21.052152+07:00" level=error msg="could not find name updated_at in model.User{UserId:\"5c8ad806-8537-11ea-a22f-acde48001122\", FullName:\"Tgonddd \", Email:\"thongdeptrai100@gmail.net\", Password:\"$2a$04$ExRtcM02RlIjRbhHW/282uAQX3d0m5T/7WVbB3zcKv3Qt7nffkMoO\", Role:\"MEMBER\", CreatedAt:time.Time{wall:0xbfa0702d43199828, ext:40104352320, loc:(*time.Location)(0x175aac0)}, UpdatedAt:time.Time{wall:0xbfa0702d43199828, ext:40104352412, loc:(*time.Location)(0x175aac0)}, Token:\"\"}" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:53:25.763392+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:53:43.502925+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:53:51.037883+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:53:52.359672+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:05.175093+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:05.840514+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:06.393881+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:07.000481+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:07.608261+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:08.164739+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:08.718423+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:09.212561+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:09.786431+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:10.240072+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:10.701038+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:53.560588+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T14:59:58.477451+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:00:41.571991+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:00:47.271791+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:08:02.812753+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:08:09.371947+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:08:12.790429+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T15:08:18.514459+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T16:18:09.899738+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T16:18:16.65585+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T16:19:00.26117+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=34
+time="2020-04-23T17:23:26.656219+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=36
+time="2020-04-23T17:23:35.018466+07:00" level=error msg="code=400, message=Syntax error: offset=58, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=89
+time="2020-04-23T17:25:00.335265+07:00" level=error msg="code=400, message=Syntax error: offset=58, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=89
+time="2020-04-23T17:25:25.139294+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:25:32.908219+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:27:48.354133+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:53.108052+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:54.31997+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:54.947894+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:56.37856+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:59.099883+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:36:59.752398+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=98
+time="2020-04-23T17:38:23.461812+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:38:24.249552+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:38:33.13195+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:38:33.841827+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:38:34.243034+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:38:34.931621+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:39:17.719182+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=36
+time="2020-04-23T17:39:35.808247+07:00" level=error msg="code=400, message=Syntax error: offset=62, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T17:39:37.600346+07:00" level=error msg="code=400, message=Syntax error: offset=62, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T17:39:38.272216+07:00" level=error msg="code=400, message=Syntax error: offset=62, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T17:39:43.019687+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T17:39:51.206023+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:03:20.740048+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:03:25.855238+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:03:31.877223+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:09:51.000602+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:09:51.752196+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:19:40.534152+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:19:41.252075+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:19:41.997805+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:19:47.943739+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:21:53.528342+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:21:54.180911+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:23:25.284897+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:23:25.547096+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:23:27.144676+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:23:27.321261+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:24:50.006474+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:24:50.797132+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=96
+time="2020-04-23T18:26:33.964677+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:26:34.59525+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:06.148813+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:06.861602+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:07.218533+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:41.610071+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:42.333523+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:27:49.706594+07:00" level=error msg="code=400, message=Syntax error: offset=59, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T18:27:50.522557+07:00" level=error msg="code=400, message=Syntax error: offset=59, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T18:27:55.611854+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:28:19.953113+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:28:20.574188+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:28:29.93597+07:00" level=error msg="code=400, message=Unmarshal type error: expected=string, got=number, field=password, offset=54, internal=json: cannot unmarshal number into Go struct field ReqSignIn.password of type string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=88
+time="2020-04-23T18:28:35.063006+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:28:43.203316+07:00" level=error msg="Key: 'ReqSignUp.FullName' Error:Field validation for 'FullName' failed on the 'required' tag" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=34
+time="2020-04-23T18:28:51.38096+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:29:00.257221+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:29:00.942171+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=97
+time="2020-04-23T18:33:38.775146+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=94
+time="2020-04-23T18:33:40.06463+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=94
+time="2020-04-23T18:33:46.258556+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=94
+time="2020-04-23T18:35:47.420955+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=94
+time="2020-04-23T18:35:47.997773+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=94
+time="2020-04-23T18:37:41.127658+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:37:41.782021+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:39:12.324616+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:39:13.11687+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:15.881464+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:25.484674+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:27.9903+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:28.720167+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:35.41828+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:40:36.14796+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:18.435839+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:19.086538+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:19.915394+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:20.407015+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:21.47665+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:29.025832+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:29.711067+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:43.197681+07:00" level=error msg="validator not registered" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=93
+time="2020-04-23T18:44:58.948166+07:00" level=error msg="code=400, message=Syntax error: offset=50, error=invalid character '}' looking for beginning of value, internal=invalid character '}' looking for beginning of value" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=85
+time="2020-04-23T18:46:39.382278+07:00" level=error msg="code=400, message=Syntax error: offset=50, error=invalid character '}' looking for beginning of value, internal=invalid character '}' looking for beginning of value" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=85
+time="2020-04-24T02:08:42.513279+07:00" level=error msg="key is of invalid type" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=136
+time="2020-04-24T02:11:49.205516+07:00" level=error msg="Key: 'ReqSignUp.FullName' Error:Field validation for 'FullName' failed on the 'required' tag" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=34
+time="2020-04-24T02:40:32.674906+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=36
+time="2020-04-24T02:40:43.437329+07:00" level=error msg="Email là bắt buộc" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=31
+time="2020-04-24T02:40:51.351639+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/thong_vo/go/src/github-trending/repository/user_impl/user_repo_impl.go line=36
+time="2020-04-24T02:41:54.665306+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=31
+time="2020-04-24T02:42:01.58016+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=31
+time="2020-04-24T02:54:54.992154+07:00" level=error msg="code=400, message=Syntax error: offset=70, error=invalid character '}' looking for beginning of object key string, internal=invalid character '}' looking for beginning of object key string" file=/Users/thong_vo/go/src/github-trending/handler/user_handler.go line=89

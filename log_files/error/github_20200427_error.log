@@ -1,0 +1,1 @@
+time="2020-04-28T01:38:37.297129+07:00" level=error msg="pq: insert or update on table \"bookmarks\" violates foreign key constraint \"bookmarks_repo_name_fkey\"" file=/Users/thong_vo/go/src/github-trending/repository/repo_impl/github_repo_impl.go line=159
