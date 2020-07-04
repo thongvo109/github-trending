@@ -49,7 +49,7 @@ func main() {
 	}
 	api.SetupRouter()
 	go scheduleUpdateTrending(60* time.Second,repoHandler)
-	e.Logger.Fatal(e.Start(":6000"))
+	e.Logger.Fatal(e.Start(":3000"))
 }
 func scheduleUpdateTrending(timeSchedule time.Duration,handler handler.RepoHandler)  {
 	ticker := time.NewTicker(timeSchedule)
