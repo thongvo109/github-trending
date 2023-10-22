@@ -1,7 +1,5 @@
 # github-trending
 
-#nhớ dừng post man thằng ông nội 
-
 #link api: http://35.186.147.90:3000 
 
 #end point : /user
